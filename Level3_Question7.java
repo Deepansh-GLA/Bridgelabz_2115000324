@@ -1,4 +1,4 @@
-import java.util.HashSet;
+import java.util.*;
 
 public class Level3_Question7 {
         public static int generateOTP() {
