@@ -2,13 +2,14 @@ import java.util.*;
 
 public class Handle4 {
     static String removeDuplicates(String str) {
-        StringBuilder result = new StringBuilder();
+        String result = "";
         for (int i = 0; i < str.length(); i++) {
-            if (result.indexOf(String.valueOf(str.charAt(i))) == -1) {
-                result.append(str.charAt(i));
+            char ch = str.charAt(i);
+            if (result.indexOf(ch) == -1) {
+                result += ch;
             }
         }
-        return result.toString();
+        return result;
     }
 
     public static void main(String[] args) {
@@ -18,3 +19,4 @@ public class Handle4 {
         System.out.println("String without duplicates: " + removeDuplicates(str));
     }
 }
+

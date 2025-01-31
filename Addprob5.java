@@ -9,8 +9,16 @@ public class Addprob5 {
 
     static boolean isPalindrome(String str) {
         String cleaned = str.replaceAll("[^a-zA-Z]", "").toLowerCase();
-        String reversed = new StringBuilder(cleaned).reverse().toString();
-        return cleaned.equals(reversed);
+        int left = 0, right = cleaned.length() - 1;
+
+        while (left < right) {
+            if (cleaned.charAt(left) != cleaned.charAt(right)) {
+                return false;
+            }
+            left++;
+            right--;
+        }
+        return true;
     }
 
     static void displayResult(boolean result) {
@@ -27,3 +35,4 @@ public class Addprob5 {
         displayResult(result);
     }
 }
+

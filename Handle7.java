@@ -2,15 +2,15 @@ import java.util.*;
 
 public class Handle7 {
     static String toggleCase(String str) {
-        StringBuilder result = new StringBuilder();
+        String result = "";
         for (char ch : str.toCharArray()) {
             if (Character.isUpperCase(ch)) {
-                result.append(Character.toLowerCase(ch));
+                result += Character.toLowerCase(ch);
             } else {
-                result.append(Character.toUpperCase(ch));
+                result += Character.toUpperCase(ch);
             }
         }
-        return result.toString();
+        return result;
     }
 
     public static void main(String[] args) {
@@ -20,3 +20,4 @@ public class Handle7 {
         System.out.println("Toggled case string: " + toggleCase(str));
     }
 }
+
