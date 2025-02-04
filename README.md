@@ -39,4 +39,9 @@
 -java constructors
 -instance vs class  variables
 -access modifiers
-
+************************************************************************************************
+-4 feb Eighth assignment 
+-this 
+-Instanceof
+-static
+-final
