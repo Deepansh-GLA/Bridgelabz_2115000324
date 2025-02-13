@@ -1,80 +1,137 @@
-# Bridgelabz_2115000324
-************************************************************************************************* 
--commiting changes to distinguish branches 
-************************************************************************************************* 
--22 Jan first assignment
--simple questions basic programs on java 
--using scanner and stuff
-*************************************************************************************************
--23 Jan  Second assignment
--Java comments 
--basic data types
--arithmetic operators
--type conversion
--taking user input
-*************************************************************************************************
--24  Jan Third assignment
--java control flow
--java boolean data type
--logcal operators
--if conditional statement
--java loops,break continue
--switch
-************************************************************************************************
--27 Jan Fourth assignment
--user defined methods
--using methods multiple times
--recursive methods
--java static methods
--math class
-************************************************************************************************
--29 Jan Fifth assignment
--handling strings and common string functions
-************************************************************************************************
--31 Jan Sixth assignment
--Procedural vs OOP lang
--class and object
-************************************************************************************************
--2 feb Seventh assignment
--java constructors
--instance vs class  variables
--access modifiers
-************************************************************************************************
--4 feb Eighth assignment 
--this 
--Instanceof
--static
--final
-************************************************************************************************
--6 feb Ninth assignment
-Object Oriented Design Principles
-- Class Diagram
-- Object Diagrams
-- Sequence Diagrams
-************************************************************************************************
--7 feb TENTH assignment
-- Inheritance
-- Single Level Inheritance
-- Multilevel Inheritance
-- Hierarchical Inheritance
-- Key Features of Inheritance
-- Method Overriding
-- Constructor Inheritance in Java
-- Polymorphism and Inheritance
-- Access Modifiers and Inheritance
-************************************************************************************************
--10 feb 11 assignment
--Submission of Encapsulation
--Polymorphism
--Interface
--Abstract Class
-************************************************************************************************
--12 feb 12 assignment 
-- Single Linked List
-- Double Linked List
-- Circular Linked List
-************************************************************************************************
--13 feb 13 assignment
-- Stack
-- Queue
-- HashMap and Hashing Function
+Java Assignments Progress
+
+Welcome to my Java Assignments Repository! 🚀 This repository contains all my Java assignments, covering fundamental to advanced concepts. Below is the structured timeline of my progress.
+
+📌 Assignment Timeline
+
+✅ Basic Java Concepts
+*************************************************************************************
+22 Jan - First Assignment: Introduction to Java
+
+Writing simple Java programs
+
+Using Scanner for user input
+*************************************************************************************
+23 Jan - Second Assignment: Fundamentals of Java
+
+Java Comments
+
+Basic Data Types
+
+Arithmetic Operators
+
+Type Conversion
+
+Taking User Input
+**************************************************************************************
+24 Jan - Third Assignment: Java Control Flow
+
+Boolean Data Type
+
+Logical Operators
+
+if Conditional Statements
+
+Loops (for, while, do-while)
+
+break & continue
+
+switch Statement
+
+🔹 Methods & Strings
+****************************************************************************************
+27 Jan - Fourth Assignment: Java Methods
+
+User-Defined Methods
+
+Using Methods Multiple Times
+
+Recursive Methods
+
+Static Methods
+
+Math Class
+****************************************************************************************
+29 Jan - Fifth Assignment: Handling Strings
+
+Common String Functions
+
+String Manipulation
+****************************************************************************************
+🏛 Object-Oriented Programming (OOP)
+
+31 Jan - Sixth Assignment: Procedural vs OOP
+
+Understanding Classes & Objects
+****************************************************************************************
+2 Feb - Seventh Assignment: Java Constructors & Variables
+
+Constructors in Java
+
+Instance vs Class Variables
+
+Access Modifiers
+*****************************************************************************************
+4 Feb - Eighth Assignment: OOP Key Concepts
+
+this Keyword
+
+instanceof Operator
+
+static Keyword
+
+final Keyword
+
+📐 Object-Oriented Design & Inheritance
+******************************************************************************************
+6 Feb - Ninth Assignment: Object-Oriented Design Principles
+
+Class Diagram
+
+Object Diagram
+
+Sequence Diagram
+*******************************************************************************************
+7 Feb - Tenth Assignment: Inheritance & Polymorphism
+
+Single Level, Multilevel, Hierarchical Inheritance
+
+Key Features of Inheritance
+
+Method Overriding
+
+Constructor Inheritance
+
+Polymorphism & Inheritance
+
+Access Modifiers in Inheritance
+
+🔏 Advanced OOP Concepts
+********************************************************************************************
+10 Feb - Eleventh Assignment: Encapsulation & Abstraction
+
+Encapsulation
+
+Polymorphism
+
+Interfaces
+
+Abstract Classes
+
+🔗 Data Structures in Java
+*********************************************************************************************
+12 Feb - Twelfth Assignment: Linked Lists
+
+Single Linked List
+
+Double Linked List
+
+Circular Linked List
+**********************************************************************************************
+13 Feb - Thirteenth Assignment: Stack, Queue, & Hashing
+
+Stack
+
+Queue
+
+HashMap & Hashing Functions
