@@ -135,3 +135,13 @@ Stack
 Queue
 
 HashMap & Hashing Functions
+**********************************************************************************************
+14 Feb - Fourteenth Assignment: Sorting Algorithms
+
+Bubble Sort
+
+Insertion Sort
+
+Merge Sort
+
+Quick Sort
