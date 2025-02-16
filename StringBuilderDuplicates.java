@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.HashSet;
 public class StringBuilderDuplicates {
 	public static void main(String[] args) {
-		String str = "Daksh PAratp";
+		String str = "Deepansh";
 		System.out.println("Original String: " + str);
 		StringBuilder s = new StringBuilder();
 		HashSet<Character> h = new HashSet<>();
