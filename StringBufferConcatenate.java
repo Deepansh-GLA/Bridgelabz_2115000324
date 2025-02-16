@@ -1,7 +1,7 @@
 import java.io.*;
 public class StringBufferConcatenate {
 	public static void main(String[] args) throws IOException {
-		String[] str = {"Daksh", "Ayush", "Prince", "Harsh"};
+		String[] str = {"Deepansh", "Ayush", "Prince", "daksh"};
 		StringBuffer sb = new StringBuffer();
 		for(String s : str) {
 			sb.append(s);
