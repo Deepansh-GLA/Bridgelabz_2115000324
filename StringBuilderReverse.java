@@ -1,7 +1,7 @@
 import java.io.*;
 public class StringBuilderReverse {
 	public static void main(String[] args) {
-		String a = "daksh";
+		String a = "Deepansh";
 		System.out.println("Original String: " + a);
 		StringBuilder sb = new StringBuilder();
 		sb.append(a);
