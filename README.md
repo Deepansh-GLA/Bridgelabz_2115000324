@@ -166,4 +166,19 @@ General Algorithm Best Practices
 
 Time and space Complexity Optimization
 
+*************************************************************************************************
+18 feb - Seventeenth Assignment:
 
+Introduction to Generics
+
+Type Parameters
+
+Generic Classes
+
+Generic Methods
+
+Bounded Type Parameters
+
+Wildcards
+
+**************************************************************************************************
