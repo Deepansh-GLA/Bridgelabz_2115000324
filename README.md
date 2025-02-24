@@ -278,4 +278,19 @@ Structure of a Test Class
 Assertions
 
 ***************************************************************************************************
+24 feb - 22 Assignment:
 
+Introduction to Annotations
+
+Common Built-in Annotations
+Creating Custom Annotations
+Advanced Custom Annotations
+Real-World Use Cases
+Annotation Processing Tools
+
+Reflection
+Understanding of Reflection
+Using Reflection in Java
+Annotations and Reflection
+
+***************************************************************************************************
