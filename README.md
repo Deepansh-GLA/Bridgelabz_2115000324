@@ -307,3 +307,16 @@ Parsing CSV Data
 Data Validation
 
 ***************************************************************************************************
+26 feb - 24 Assignment:
+
+Introduction to JSON
+
+Reading JSON Data
+
+Writing JSON Data
+
+Parsing JSON Data
+
+JSON Schema Validation
+
+***************************************************************************************************
